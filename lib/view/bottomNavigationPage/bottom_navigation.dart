@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:bottom_navigation_bar/bottom_navigation_bar.dart';
 import 'package:get_solution/constants/color_constant.dart';
 import 'package:get_solution/view/ordersPage/order_screen.dart';
-import 'package:sizer/sizer.dart';
 
 import '../profilePage/profile.dart';
 

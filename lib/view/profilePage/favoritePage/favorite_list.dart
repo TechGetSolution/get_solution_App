@@ -1,8 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get_connect/http/src/_http/_stub/_file_decoder_stub.dart';
 import 'package:get_solution/constants/color_constant.dart';
-import 'package:intl/intl.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../../utils/display_utils.dart';

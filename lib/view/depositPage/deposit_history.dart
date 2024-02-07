@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:get/get.dart' hide Response;
+// import 'package:get/get.dart' hide Response;
 import 'package:intl/intl.dart';
 import '../../constants/color_constant.dart';
 import '../../utils/display_utils.dart';

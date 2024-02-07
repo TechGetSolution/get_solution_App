@@ -1,10 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 import 'package:get_solution/constants/color_constant.dart';
-import 'package:get_solution/routes/app_routes.dart';
 import 'package:get_solution/utils/display_utils.dart';
-import 'package:sizer/sizer.dart';
 
 class Settings extends StatefulWidget {
   const Settings({super.key});
